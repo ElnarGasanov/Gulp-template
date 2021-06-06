@@ -1,0 +1,4 @@
+open terminal: ctrl + ~ 
+
+
+gulp watch ---- THIS START

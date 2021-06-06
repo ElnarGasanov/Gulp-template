@@ -1,0 +1,17 @@
+$color-main:red;
+$color-secondary:pink;
+
+body {
+    background-color:$color-main;
+        .g {
+            height: 1px;
+        }
+}
+
+h1 {
+    color: $color-secondary;
+}
+
+h2 {
+    color:$color-secondary;
+}
